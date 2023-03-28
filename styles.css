@@ -1,0 +1,19 @@
+.huge{
+    font-size:7rem;
+    color:#2C74B3;
+    text-align: center;
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background-color: #86C8BC;
+}
+.player{
+    color:#2C74B3;
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
